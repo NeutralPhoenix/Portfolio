@@ -17,6 +17,12 @@ Here are some of the projects I have worked on:
 - **Role:** Translator
 - **Note:** I translated the game for fun, but due to excessive interference, I stopped working on it.
 
+### [Deadly Team]
+- **Link:** [Deadly Team](https://create.roblox.com/dashboard/creations/experiences/6360603778/overview)
+- **Developer:** Neutral (Me)
+- **Role:** Creator and Scripter
+- **Description:** This game was created just for fun, If you are interested in something in the game maybe I can sell it to you
+
 ## Skills
 - **Roblox Luau Scripting:** Intermediate level, experienced in creating scripts for gameplay mechanics and etc.
 - **Translation:** Capable of translating game content to enhance user experience.
