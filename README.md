@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About Me
-Hello! I'm Otavyo (or Neutral), an intermediate scripter specializing in Roblox Luau and an experienced translator. I enjoy developing games in Roblox and translating content for fun.
+Hello! I'm Neutral, an intermediate scripter specializing in Roblox Luau and an experienced translator. I enjoy developing games in Roblox and translating content for fun.
 
 ## Featured Projects
 Here are some of the projects I have worked on:
